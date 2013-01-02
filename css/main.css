@@ -1,6 +1,4 @@
 body {  
-  /*background: #8bbf19 url(../img/bg_main.png) repeat-x;*/
-  background-color: #2380fe;
   background-image: -moz-linear-gradient(top, #2380fe, #FFFFFF);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#2380fe), to(#FFFFFF));
   background-image: -webkit-linear-gradient(top, #2380fe, #FFFFFF);
